@@ -26,11 +26,11 @@
         left {
             display-name = "Lower";
             bindings = <
-&trans  &trans         &trans        &trans        &trans        &trans                              &trans           &trans        &trans     &trans            &trans             &trans
-&trans  &kp GRAVE      &kp TILDE     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9                        &kp AMPERSAND    &kp ASTERISK  &kp SQT    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans
-&trans  &kp BACKSLASH  &kp NUMBER_0  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6                        &kp CARET        &kp AMPS      &kp CARET  &kp LPAR          &kp RPAR           &trans
-&trans  &kp MINUS      &kp EQUAL     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &bt BT_NXT    &trans  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH   &kp LBRC          &kp RBRC           &trans
-                                     &trans        &trans        &trans        &trans        &trans  &trans           &trans        &trans
+&trans  &trans  &trans        &trans        &trans        &trans                              &trans                &trans                 &trans   &trans  &trans  &trans
+&trans  &trans  &kp MINUS     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9                        &kp GRAVE             &kp BACKSLASH          &trans   &trans  &trans  &trans
+&trans  &trans  &kp NUMBER_0  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6                        &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SQT  &trans  &trans  &trans
+&trans  &trans  &kp EQUAL     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &bt BT_NXT    &trans  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans   &trans  &trans  &trans
+                              &trans        &trans        &trans        &trans        &trans  &trans                &trans                 &trans
             >;
         };
 
