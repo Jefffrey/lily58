@@ -1,12 +1,14 @@
 ZMK: https://zmk.dev/
 
+- Keys: https://github.com/zmkfirmware/zmk/blob/main/app/include/dt-bindings/zmk/keys.h
+
 typeractive: https://docs.typeractive.xyz/
 
 Colemak-DH: https://colemakmods.github.io/mod-dh/
 
-Programmer Dvorak for numbers: https://www.kaufmann.no/roland/dvorak/
+Callum: https://github.com/callum-oakley/qmk_firmware/tree/master/users/callum
 
-keymap-editor: https://github.com/nickcoutsos/keymap-editor
+Seniply: https://stevep99.github.io/seniply/
 
 urob:
 
